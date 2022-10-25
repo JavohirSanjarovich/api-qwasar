@@ -2,8 +2,12 @@
 
 one:
   name: MyString
-  body: MyString
+  sound: MyString
+  age: MyString
+  gender: MyString
 
 two:
   name: MyString
-  body: MyString
+  sound: MyString
+  age: MyString
+  gender: MyString
